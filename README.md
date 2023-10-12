@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS & JavaScript
 - 🔥 I have a [Responsive Web Design Certification](https://www.freecodecamp.org/certification/evzis/responsive-web-design) from FreeCodeCamp
 - 🚀 Currently making my way through The Odin Project
+- 💃 Enrolled in course 'Become a Coder' from [Czechitas](https://www.czechitas.cz/en). 12.09.-19.12.2023
 - 💞️ I’m looking to collaborate on anything fun 
 - 📫 How to reach me -> evzi.stara@gmail.com
 
