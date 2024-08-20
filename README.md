@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @evzistara
 - 👀 I’m interested in front-end development
+- 🏫 I'm studying one year of IT at [OsloMet](https://www.oslomet.no/studier/tkd/informasjonsteknologi-arsstudium)
 - 🌱 I’m currently learning HTML,CSS & JavaScript
 - 🔥 I have a [Responsive Web Design Certification](https://www.freecodecamp.org/certification/evzis/responsive-web-design) from FreeCodeCamp
 - 🚀 Currently making my way through The Odin Project
