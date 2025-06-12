@@ -1,6 +1,6 @@
-![Header](header.png)
+![Header](header-new.png)
 # 💫 About Me:
-👋 Hi, I’m @evzistara<br>❤️ I am a junior front-end developer<br>🏫 I have one year IT at OsloMet - Done in 06/2025<br>🌱 I’m currently learning TypeScript and Sanity<br>🔥 I have a Responsive Web Design Certification from FreeCodeCamp<br>💃 Finished a course 'Become a Coder' from Czechitas. 12.09.-19.12.2023<br>📫 How to reach me -> evzi.stara@gmail.com<br>📱 Check out my Tik Tok account about programming -> @evzis
+🏫 I have one year IT at OsloMet - Done in 06/2025<br>🔥 I have a Responsive Web Design Certification from FreeCodeCamp<br>💃 Finished a course 'Become a Coder' from Czechitas. 12.09.-19.12.2023<br>📫 How to reach me -> evzi.stara@gmail.com<br>📱 Check out my Tik Tok account about programming -> @evzis
 
 
 ## 🌐 Socials:
