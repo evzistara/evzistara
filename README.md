@@ -1,9 +1,11 @@
 ![Header](header-new.png)
 # 💫 About Me:
-🔥  I work as Solution expert for The Norwegian Armed Forces (SAP BW4/HANA)<br>🏫 I have one year IT at OsloMet - Done in 06/2025<br>
+🔥  I work as Solution expert for The Norwegian Armed Forces (SAP BW4/HANA)<br>🏫 I have one year IT at OsloMet - Done in 06/2025<br> 🏫 Reach me -> evzi.stara@gmail.com<br>
 
 ## Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/evzilearnstocode/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evzenie-jitka-stara/) [My Favorite Scrimba Course]([https://scrimba.com/learn-javascript-c0v?via=u01b5bn](https://scrimba.com/frontend-path-c0j)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/evzilearnstocode/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evzenie-jitka-stara/) 
+
+[My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v?via=u01b5bn)
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
