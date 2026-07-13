@@ -1,4 +1,3 @@
-![Header](header-new.png)
 # 💫 About Me:
 🔥  I work as Solution expert for The Norwegian Armed Forces (SAP BW4/HANA)<br>🏫 I have one year IT at OsloMet - Done in 06/2025<br> 💻 Making my way through The Fullstack Developer Career Path from Scrimba <br> 🎓 Finished The Frontend Developer Career Path from Scrimba in 2025 <br>☎️ Reach me -> evzi.stara@gmail.com<br>
 
