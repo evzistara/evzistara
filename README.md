@@ -13,9 +13,9 @@ I'm learning skills to be a **data engineer**, and I'm looking for a data engine
 
 ## 🔗 Connect with me
 
-[!(https://img.shields.io/badge/Portfolio-evzistara.no-9076f3?style=for-the-badge)](https://evzistara.no)
+[![evzistara.no](https://img.shields.io/badge/Portfolio-evzistara.no-9076f3?style=for-the-badge)](https://evzistara.no)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evzenie-jitka-stara)
-[!(https://img.shields.io/badge/Email-evzi.stara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evzi.stara@gmail.com)
+[![evzi.stara@gmail.com](https://img.shields.io/badge/Email-evzi.stara@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evzi.stara@gmail.com)
 
 ## 💻 Tech stack
 
